@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__playwright",
+      "Bash(python3:*)",
+      "Bash(npm test:*)",
+      "Bash(clear:*)",
+      "Bash(npm install:*)",
+      "mcp__ide__getDiagnostics",
+      "Bash(npx tsc:*)",
+      "Bash(node:*)",
+      "Bash(xargs sh:*)"
+    ]
+  }
+}
